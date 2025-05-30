@@ -1,4 +1,4 @@
-//Work done by Anson Mou and Vansh Shah
+//Work done by Anson Mou
 
 #include <iostream>
 #include <cstdlib>
