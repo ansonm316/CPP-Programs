@@ -1,8 +1,3 @@
-/*
-Anson Mou
-Checked output with Matthew Xia
-*/
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
