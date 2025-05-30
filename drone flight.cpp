@@ -1,4 +1,3 @@
-//Work done by Anson Mou
 #include <iostream>
 #include <fstream>
 #include <cmath>
