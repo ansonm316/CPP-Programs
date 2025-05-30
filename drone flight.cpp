@@ -1,5 +1,4 @@
-//Work done by Anson Mou and Myles-Cohen Chan
-
+//Work done by Anson Mou
 #include <iostream>
 #include <fstream>
 #include <cmath>
