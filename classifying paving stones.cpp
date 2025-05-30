@@ -1,5 +1,3 @@
-//Work done by Anson Mou
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
