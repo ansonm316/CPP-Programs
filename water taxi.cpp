@@ -1,4 +1,4 @@
-//Work done by Anson Mou & Liam Bruins
+//Work done by Anson Mou
 
 #include <iostream>
 #include <fstream>
