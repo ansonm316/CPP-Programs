@@ -1,4 +1,4 @@
-//Written By Anson Mou & Bianca Cortero
+//Written By Anson Mou
 
 #include <iostream>
 #include <iomanip>
